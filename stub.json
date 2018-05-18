@@ -1,0 +1,68 @@
+{
+  "response": {
+    "liked": 1,
+    "count": 3,
+    "items": [
+      {
+        "id": 16,
+        "from_id": 44521939,
+        "owner_id": -165536494,
+        "date": 1524500905,
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Connection Error",
+        "can_edit": 1,
+        "created_by": 44521939,
+        "can_delete": 1,
+        "post_source": {
+          "type": "vk"
+        },
+        "comments": {
+          "count": 0,
+          "groups_can_post": true,
+          "can_post": 1
+        },
+        "likes": {
+          "count": 0,
+          "user_likes": 0,
+          "can_like": 1,
+          "can_publish": 0
+        },
+        "reposts": {
+          "count": 0,
+          "user_reposted": 0
+        }
+      },
+      {
+        "id": 15,
+        "from_id": 44521939,
+        "owner_id": -165536494,
+        "date": 1524492117,
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Connection Error",
+        "can_edit": 1,
+        "created_by": 44521939,
+        "can_delete": 1,
+        "post_source": {
+          "type": "vk"
+        },
+        "comments": {
+          "count": 0,
+          "groups_can_post": true,
+          "can_post": 1
+        },
+        "likes": {
+          "count": 0,
+          "user_likes": 0,
+          "can_like": 1,
+          "can_publish": 0
+        },
+        "reposts": {
+          "count": 0,
+          "user_reposted": 0
+        }
+      }
+    ]
+  }
+}
